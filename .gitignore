@@ -1,0 +1,8 @@
+venv
+.venv
+env
+.env
+__pycache__
+.idea
+amazons3_python/python_s3_accessKeys.csv
+bigquery_python/analog-button-435120-c7-f5f0fcd876b4.json
